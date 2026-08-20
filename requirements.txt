@@ -1,0 +1,11 @@
+Required Libraries and Tools
+
+Technologies Used
+
+Python
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+SHAP
+Jupyter Notebook
